@@ -73,7 +73,7 @@ Pour démarrer l'application, exécutez la commande suivante
 
 ### Diagramme de  Classe
 
-![Image diagramme de classe](./assets/image-diagramme-class.jpeg)
+![Image diagramme de classe](./assets/image-diagrame-class.jpeg)
 
 
 ### Authors
